@@ -4,16 +4,16 @@ public class chlg2 {
         displayHighScore("Abbas Murshid", position);
 
         position=calculateHighScorePosition(1000);
-        displayHighScore("Abbas Murshid", position);
+        displayHighScore("Asifa Safrin", position);
 
         position=calculateHighScorePosition(500);
-        displayHighScore("Abbas Murshid", position);
+        displayHighScore("Aiysha Afrin", position);
 
         position=calculateHighScorePosition(100);
-        displayHighScore("Abbas Murshid", position);
+        displayHighScore("Rosi", position);
 
         position=calculateHighScorePosition(25);
-        displayHighScore("Abbas Murshid", position);
+        displayHighScore("Hassan", position);
     }
      public static void displayHighScore(String playerName, int position) {
         System.out.println(playerName +
