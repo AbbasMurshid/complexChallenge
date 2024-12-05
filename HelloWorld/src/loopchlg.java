@@ -6,7 +6,7 @@ public class loopchlg {
 
             if (i%3==0 && i%5==0){
                 sum +=i;
-                count++;
+                count++
 
             }
             if (count ==5 )
